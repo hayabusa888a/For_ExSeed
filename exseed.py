@@ -23,3 +23,5 @@ Students = [Nakamura, Tanaka, Suzuki]
 
 for a in Students:
   print(a.name,"の平均点は",a.score_ave(),"です")
+
+print("githubテスト")
